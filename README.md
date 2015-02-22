@@ -1,6 +1,13 @@
 kmejroviny_web
 ==============
 
+K UI
+
+- odkaz "všechny díly" by otevrel offcanvas seznam dilu zleva
+- ta navigace (vsechny dily, o komiksu) by mohli byt sticky to top
+- odkaz "o komiksu" zaskroluje na danou cast na homepage
+
+
 
 FONTY
 
